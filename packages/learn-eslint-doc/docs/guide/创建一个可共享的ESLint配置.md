@@ -8,7 +8,7 @@
 
 ## Coding
 
-- 初始化项目，⚠️注意项目名必须是`eslint-config-xxx`这样的形式，没有为神马，这是 ESLint 共享配置文件的约定
+- 初始化项目，⚠️注意项目名必须是`eslint-config-xxx`这样的形式，没有为什么，这是 ESLint 共享配置文件的约定
 
 ![image-20220702174126292](https://tva1.sinaimg.cn/large/e6c9d24egy1h3sq0gylghj21m20u041y.jpg)
 
